@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankokmc" alt="frankokmc" /></a> </p>
 
-- 🔭 HE DESARROLLADO RECIENTEMENTE UN PROYECTO PARA DEPARTAMENTO DE MANTENCION MINERO FLORIDA | CHILE [SISGAM](https://github.com/frankokmc)
+- 🔭 HE DESARROLLADO RECIENTEMENTE UN PROYECTO PARA DEPARTAMENTO DE MANTENCION MINERA FLORIDA | CHILE [SISGAM](https://github.com/frankokmc)
 
 - 🌱 QUISIERA SERGUIR APRENDIENDO **FRAMEWORKS**
 
@@ -18,8 +18,8 @@ DONDE REALIZE LO SIGUIENTE:
 •	GENERACION DE REPORTES PARA CADA MODULO EN FORMATO PDF
 FRONTEND: BOOSTRAP, CSS | BACKEND CON PHP – LARAVEL | BASE DE DATOS: MYSQL
 
-
-- 💬 ACTUALMENTE ESTOY APRENDIENDO **REACT, ANGULAR Y NEST JS**
+- 💬 ME HE CAPACITADO EN RUBY ON RAILS,NODE JS, PHP ,PYTHON Y JAVA**
+- 💬 ME HE CAPACITADO EN **REACT, VUE, Y ANGULAR **
 
 - 📫 PUEDES ESCRIBIRME **ing.marquezcarlos@gmail.com**
 
