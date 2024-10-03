@@ -28,7 +28,7 @@ FRONTEND: BOOSTRAP, CSS | BACKEND CON PHP – LARAVEL | BASE DE DATOS: MYSQL
 <a href="https://linkedin.com/in/carlos marquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos marquez" height="30" width="40" /></a>
   
 <a href="https://portafoliocarlosmarquez.vercel.app/" target="_blank">
-    <img align="center" src="" alt="Visitar mi portafolio" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blue_computer_icon.svg/1024px-Blue_computer_icon.svg.png" alt="Visitar mi portafolio" height="30" width="40" />
 </a>
 
 </p>
