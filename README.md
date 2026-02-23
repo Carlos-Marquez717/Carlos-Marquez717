@@ -77,12 +77,16 @@ Carlos Márquez
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40"/>
+<img src="https://drwvgrynateyhygiczqo.supabase.co/storage/v1/object/public/Images/negosdev/knxvxntcduo-jebcdev-aplicaciones-web-con-laravel-0.png" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://xprimiendo.com/wp-content/uploads/2018/04/vue-js-thumb.png" width="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXW9ZmvP-eM7JbN5-nOgeoy-ctVUTa7xheQ&s" width="50"/>
+<img src="https://cdn.optipic.io/site-106081/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+ 
 </p>
 
 ---
