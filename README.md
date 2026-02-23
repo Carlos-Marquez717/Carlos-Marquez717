@@ -18,7 +18,7 @@ enfocado en digitalización y automatización de procesos operacionales.
 
 ⚡ Especializado en:
 
-- Backend Development (Python / Django / Flask / FastAPI)
+- Backend Development (Python / Django )
 - PHP & Laravel
 - APIs REST
 - Automatización de procesos
