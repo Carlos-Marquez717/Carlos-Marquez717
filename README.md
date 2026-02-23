@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/frankokmc.png" width="170" style="border-radius:50%;" />
-</p>
 
 <h1 align="center">👋 Hola, soy Carlos Márquez</h1>
 
