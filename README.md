@@ -12,14 +12,13 @@ enfocado en digitalización y automatización de procesos operacionales.
 
 ---
 
-## 🚀 Sobre mí
+<h2 align="center">🚀 SOBRE MI</h2>
 
 💻 Ingeniero de Sistemas con experiencia en desarrollo de software empresarial.
 
 ⚡ Especializado en:
 
-- Backend Development (Python / Django )
-- PHP & Laravel
+- Backend Development (Python / Django  | PHP / Laravel)
 - APIs REST
 - Automatización de procesos
 - PostgreSQL & MySQL
@@ -28,8 +27,8 @@ enfocado en digitalización y automatización de procesos operacionales.
 📍 Actualmente desarrollando soluciones orientadas a digitalización y automatización en entornos reales.
 
 ---
+<h2 align="center">🧩 PROYECTOS DESTACADOS</h2>
 
-## 🧩 Proyectos destacados
 
 ### 🔹 SISGAM – Sistema de Gestión Administrativa
 ✔ Digitalización 100% de procesos manuales  
@@ -47,8 +46,8 @@ enfocado en digitalización y automatización de procesos operacionales.
 ✔ Optimización backend (+30% rendimiento)
 
 ---
-
-## 🌱 Actualmente aprendiendo
+<h2 align="center">🚀CAPACITACIONES ACTUALMENTE</h2>
+ 
 
 - Arquitectura backend avanzada
 - Data Engineering & SQL avanzado
