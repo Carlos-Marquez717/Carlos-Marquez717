@@ -18,7 +18,7 @@ enfocado en digitalización y automatización de procesos operacionales.
 
 ⚡ Especializado en:
 
-- Backend Development (Python / Django  | PHP / Laravel)
+- Backend Development Stack Principal (Python / Django) Stack secundario  (PHP / Laravel y Rubuy on Rails)
 - APIs REST
 - Automatización de procesos
 - PostgreSQL & MySQL
