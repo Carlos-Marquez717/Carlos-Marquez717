@@ -74,7 +74,7 @@ Carlos Márquez
 <h2 align="center">🛠️ Tecnologías principales</h2>
  
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
 <img src="https://drwvgrynateyhygiczqo.supabase.co/storage/v1/object/public/Images/negosdev/knxvxntcduo-jebcdev-aplicaciones-web-con-laravel-0.png" width="70"/>
