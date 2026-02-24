@@ -55,8 +55,8 @@ enfocado en digitalización y automatización de procesos operacionales.
 - Automatización de procesos empresariales
 
 ---
+<h2 align="center">📫CONTACTO</h2>
 
-## 📫 Contacto
 
 📧 **ing.marquezcarlos@gmail.com**
 
@@ -71,8 +71,8 @@ Carlos Márquez
 </a>
 
 ---
-
-## 🛠️ Tecnologías principales
+<h2 align="center">🛠️ Tecnologías principales</h2>
+ 
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
