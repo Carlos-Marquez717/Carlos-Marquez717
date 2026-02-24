@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hola, soy Carlos Márquez</h1>
 
 <h3 align="center">
-Backend Developer | APIs & Automation | Django · Laravel · PostgreSQL
+Backend Developer | APIs & Automation | Django · Laravel · Ruby on Rails PostgreSQL
 </h3>
 
 <p align="center">
