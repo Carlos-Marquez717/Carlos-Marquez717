@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hola, soy Carlos Márquez</h1>
 
 <h3 align="center">
-Backend Developer | APIs & Automation | Django · Laravel · Ruby on Rails PostgreSQL
+Backend Developer | APIs & Automation Interprise | Django ·Asp.netcore . Laravel ·  PostgreSQL
 </h3>
 
 <p align="center">
@@ -18,10 +18,10 @@ enfocado en digitalización y automatización de procesos operacionales.
 
 ⚡ Especializado en:
 
-- Backend Development Stack Principal (Python / Django) Stack secundario  (PHP / Laravel y Rubuy on Rails)
+- Backend Development Stack Principal (Python / Django- C# / asp.netcore) Stack secundario  (PHP / Laravel)
 - APIs REST
 - Automatización de procesos
-- PostgreSQL & MySQL
+- PostgreSQL & Sql server
 - Optimización backend
 
 📍 Actualmente desarrollando soluciones orientadas a digitalización y automatización en entornos reales.
