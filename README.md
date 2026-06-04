@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-Full Stack Developer | Angular · ASP.NET Core · APIs REST · SQL
+Full Stack Developer | Angular · ASP.NET Core · APIs REST · SQL · IA aplicada
 </h3>
 
 <p align="center">
