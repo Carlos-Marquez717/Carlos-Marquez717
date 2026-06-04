@@ -1,30 +1,51 @@
-
 <h1 align="center">Hola, soy Carlos Márquez</h1>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/77692705?v=4" width="150" style="border-radius: 50%;" />
+</p>
+
 <h3 align="center">
-Backend Developer | APIs REST | Automatización Empresarial | Django · ASP.NET Core · Laravel · PostgreSQL
+Full Stack Developer | Angular · ASP.NET Core · APIs REST · SQL
 </h3>
 
 <p align="center">
-Ingeniero de Sistemas especializado en desarrollo backend, construcción de APIs y soluciones empresariales para digitalización y automatización de procesos.
+Ingeniero de Sistemas especializado en desarrollo de sistemas empresariales,
+automatización de procesos y construcción de soluciones web modernas.
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy desarrollador backend con experiencia en sistemas empresariales, automatización de procesos operativos y desarrollo de aplicaciones orientadas a productividad.
+Soy desarrollador Full Stack con enfoque en aplicaciones empresariales, combinando interfaces modernas con **Angular** y backend robusto con **ASP.NET Core**.
+
+Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar información, automatizar tareas operativas y mejorar la eficiencia de las organizaciones.
 
 **Stack principal:**
-- Python / Django
-- C# / ASP.NET Core
-- PHP / Laravel
-- PostgreSQL / SQL Server
+- Angular
+- ASP.NET Core
+- C#
 - APIs REST
-- Automatización de procesos
-- Optimización backend
+- SQL Server / PostgreSQL
+- JavaScript / TypeScript
 
-Actualmente desarrollo soluciones para digitalizar operaciones reales, mejorar tiempos de respuesta y centralizar información clave para la toma de decisiones.
+**Stack complementario:**
+- Python / Django
+- PHP / Laravel
+- Automatización de procesos
+- Reportes y sistemas administrativos
+
+---
+
+## Enfoque profesional
+
+- Desarrollo de sistemas administrativos
+- Aplicaciones web empresariales
+- Dashboards y paneles de gestión
+- APIs REST escalables
+- Automatización de procesos internos
+- Integración con bases de datos SQL
+- Optimización de flujos operativos
 
 ---
 
@@ -33,10 +54,11 @@ Actualmente desarrollo soluciones para digitalizar operaciones reales, mejorar t
 ### SISGAM - Sistema de Gestión Administrativa
 - Digitalización de procesos manuales
 - Reportes centralizados
-- Migración completa a entorno digital
+- Migración de operación manual a entorno digital
 
 ### Sistema de Control de Bodega y Mantenimiento
 - Control de acceso y autenticación
+- Gestión de inventario y mantenimiento
 - Generación automática de reportes PDF
 - Reducción de tiempos operativos
 
@@ -47,12 +69,16 @@ Actualmente desarrollo soluciones para digitalizar operaciones reales, mejorar t
 
 ---
 
-## Actualmente aprendiendo
+## Formación continua
 
-- Arquitectura backend avanzada
-- Data Engineering y SQL avanzado
-- Cloud con AWS y Serverless
-- Automatización de procesos empresariales
+Actualmente estoy fortaleciendo mis conocimientos en:
+
+- Angular avanzado
+- ASP.NET Core avanzado
+- Arquitectura backend
+- SQL avanzado
+- Cloud y despliegue de aplicaciones
+- Automatización empresarial
 
 ---
 
@@ -67,15 +93,16 @@ Actualmente desarrollo soluciones para digitalizar operaciones reales, mejorar t
 ## Tecnologías principales
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
