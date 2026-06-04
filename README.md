@@ -49,7 +49,7 @@ Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar
 
 <h2 align="center">Proyectos destacados</h2>
 
-### [SupportDesk Lite API](https://github.com/Carlos-Marquez717/supportdesk-lite)
+<h2 align="center">SupportDesk Lite API | (https://github.com/Carlos-Marquez717/supportdesk-lite)</h2>
 API backend para gestión de tickets de soporte con SLA, asignaciones, comentarios, auditoría y dashboard operacional.
 
 **Tecnologías:** Java · Spring Boot · PostgreSQL · SQLite · Docker  
@@ -57,7 +57,7 @@ API backend para gestión de tickets de soporte con SLA, asignaciones, comentari
 
 ---
 
-<h2 align="center">[SOFTCON](https://github.com/Carlos-Marquez717/SOFTCONT)</h2>
+<h2 align="center">SOFTCON | (https://github.com/Carlos-Marquez717/SOFTCONT)</h2>
 Sistema para registro y control de insumos y herramientas en bodega de mantención.
 
 **Tecnologías:** Python · Django · PostgreSQL · Bootstrap · Material UI  
@@ -73,7 +73,7 @@ Sistema administrativo para el departamento de mantención, orientado a centrali
 
 ---
 
-<h2 align="center">[PresstApp - Sistema Contable](https://github.com/Carlos-Marquez717/prestamos)</h2>
+<h2 align="center">PresstApp - Sistema Contable | (https://github.com/Carlos-Marquez717/prestamos)</h2>
 Sistema contable para gestión de cobros, pagos y generación de reportes financieros.
 
 **Tecnologías:** PHP · Laravel · PostgreSQL · Tailwind CSS  
