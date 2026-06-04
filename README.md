@@ -49,22 +49,51 @@ Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar
 
 ## Proyectos destacados
 
+### [SupportDesk Lite API](https://github.com/Carlos-Marquez717/supportdesk-lite)
+API backend para gestión de tickets de soporte con SLA, asignaciones, comentarios, auditoría y dashboard operacional.
+
+**Tecnologías:** Java · Spring Boot · PostgreSQL · SQLite · Docker  
+**Impacto:** Gestión centralizada de tickets, trazabilidad por auditoría y cálculo automático de SLA.
+
+---
+
+### [SOFTCON](https://github.com/Carlos-Marquez717/SOFTCONT)
+Sistema para registro y control de insumos y herramientas en bodega de mantención.
+
+**Tecnologías:** Python · Django · PostgreSQL · Bootstrap · Material UI  
+**Impacto:** Digitalización de procesos, mejora en control de inventario y trazabilidad mediante QR.
+
+---
+
 ### SISGAM - Sistema de Gestión Administrativa
-- Digitalización de procesos manuales
-- Reportes centralizados
-- Migración de operación manual a entorno digital
+Sistema administrativo para el departamento de mantención, orientado a centralizar información y reportes.
 
-### Sistema de Control de Bodega y Mantenimiento
-- Control de acceso y autenticación
-- Gestión de inventario y mantenimiento
-- Generación automática de reportes PDF
-- Reducción de tiempos operativos
+**Tecnologías:** ASP.NET Core · React · PostgreSQL · Material UI  
+**Impacto:** Digitalización 100% de procesos, reportes centralizados y mejora operativa.
 
-### PresstApp - Sistema Contable
-- Gestión de cobros y pagos
-- Reportes financieros automatizados
-- Optimización de procesos backend
+---
 
+### [PresstApp - Sistema Contable](https://github.com/Carlos-Marquez717/prestamos)
+Sistema contable para gestión de cobros, pagos y generación de reportes financieros.
+
+**Tecnologías:** PHP · Laravel · PostgreSQL · Tailwind CSS  
+**Impacto:** Automatización de reportes financieros y reducción de tiempos de procesamiento.
+
+---
+
+### F&S Control
+Plataforma interna para control de insumos, herramientas y licencias en operaciones de faena.
+
+**Tecnologías:** Vue.js · Django · PostgreSQL · Tailwind CSS  
+**Impacto:** Control de stock, trazabilidad y auditoría de procesos.
+
+---
+
+### Notiweb
+Aplicación web de noticias moderna y dinámica para publicación de contenido.
+
+**Tecnologías:** Ruby on Rails · React · PostgreSQL · Material UI  
+**Impacto:** Plataforma escalable para publicación de noticias y gestión de contenido.
 ---
 
 ## Formación continua
