@@ -13,7 +13,7 @@ automatización de procesos y construcción de soluciones web modernas.
 
 ---
 
-## Sobre mí
+<h2 align="center">Sobre mí </h2>
 
 Soy desarrollador Full Stack con enfoque en aplicaciones empresariales, combinando interfaces modernas con **Angular** y backend robusto con **ASP.NET Core**.
 
@@ -35,7 +35,7 @@ Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar
 
 ---
 
-## Enfoque profesional
+<h2 align="center">Enfoque profesional</h2>
 
 - Desarrollo de sistemas administrativos
 - Aplicaciones web empresariales
@@ -47,7 +47,7 @@ Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar
 
 ---
 
-## Proyectos destacados
+<h2 align="center">Proyectos destacados</h2>
 
 ### [SupportDesk Lite API](https://github.com/Carlos-Marquez717/supportdesk-lite)
 API backend para gestión de tickets de soporte con SLA, asignaciones, comentarios, auditoría y dashboard operacional.
@@ -57,7 +57,7 @@ API backend para gestión de tickets de soporte con SLA, asignaciones, comentari
 
 ---
 
-### [SOFTCON](https://github.com/Carlos-Marquez717/SOFTCONT)
+<h2 align="center">[SOFTCON](https://github.com/Carlos-Marquez717/SOFTCONT)</h2>
 Sistema para registro y control de insumos y herramientas en bodega de mantención.
 
 **Tecnologías:** Python · Django · PostgreSQL · Bootstrap · Material UI  
@@ -65,7 +65,7 @@ Sistema para registro y control de insumos y herramientas en bodega de mantenci�
 
 ---
 
-### SISGAM - Sistema de Gestión Administrativa
+<h2 align="center">SISGAM - Sistema de Gestión Administrativa</h2>
 Sistema administrativo para el departamento de mantención, orientado a centralizar información y reportes.
 
 **Tecnologías:** ASP.NET Core · React · PostgreSQL · Material UI  
@@ -73,7 +73,7 @@ Sistema administrativo para el departamento de mantención, orientado a centrali
 
 ---
 
-### [PresstApp - Sistema Contable](https://github.com/Carlos-Marquez717/prestamos)
+<h2 align="center">[PresstApp - Sistema Contable](https://github.com/Carlos-Marquez717/prestamos)</h2>
 Sistema contable para gestión de cobros, pagos y generación de reportes financieros.
 
 **Tecnologías:** PHP · Laravel · PostgreSQL · Tailwind CSS  
@@ -81,7 +81,7 @@ Sistema contable para gestión de cobros, pagos y generación de reportes financ
 
 ---
 
-### F&S Control
+<h2 align="center">F&S Control</h2>
 Plataforma interna para control de insumos, herramientas y licencias en operaciones de faena.
 
 **Tecnologías:** Vue.js · Django · PostgreSQL · Tailwind CSS  
@@ -89,14 +89,14 @@ Plataforma interna para control de insumos, herramientas y licencias en operacio
 
 ---
 
-### Notiweb
+<h2 align="center">Notiweb</h2>
 Aplicación web de noticias moderna y dinámica para publicación de contenido.
 
 **Tecnologías:** Ruby on Rails · React · PostgreSQL · Material UI  
 **Impacto:** Plataforma escalable para publicación de noticias y gestión de contenido.
 ---
 
-## Formación continua
+<h2 align="center">Formación continua</h2>
 
 Actualmente estoy fortaleciendo mis conocimientos en:
 
@@ -109,7 +109,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ---
 
-## Contacto
+<h2 align="center"> Contacto</h2>
 
 **Email:** ing.marquezcarlos@gmail.com  
 **Portafolio:** [portafoliocarlosmarquez.vercel.app](https://portafoliocarlosmarquez.vercel.app/)  
@@ -117,7 +117,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ---
 
-## Tecnologías principales
+<h2 align="center"> Tecnologías principales </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
@@ -135,7 +135,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ---
 
-## GitHub Stats
+<h2 align="center">  GitHub Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marquez717&show_icons=true&theme=tokyonight" />
