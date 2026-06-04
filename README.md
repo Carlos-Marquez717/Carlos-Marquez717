@@ -1,8 +1,6 @@
 <h1 align="center">Hola, soy Carlos Márquez</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/77692705?v=4" width="150" style="border-radius: 50%;" />
-</p>
+
 
 <h3 align="center">
 Full Stack Developer | Angular · ASP.NET Core · APIs REST · SQL
