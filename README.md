@@ -1,102 +1,92 @@
 
-<h1 align="center">👋 Hola, soy Carlos Márquez</h1>
+<h1 align="center">Hola, soy Carlos Márquez</h1>
 
 <h3 align="center">
-Backend Developer | APIs & Automation Interprise | Django ·Asp.netcore . Laravel ·  PostgreSQL
+Backend Developer | APIs REST | Automatización Empresarial | Django · ASP.NET Core · Laravel · PostgreSQL
 </h3>
 
 <p align="center">
-Desarrollador Backend especializado en construcción de APIs y sistemas empresariales,
-enfocado en digitalización y automatización de procesos operacionales.
+Ingeniero de Sistemas especializado en desarrollo backend, construcción de APIs y soluciones empresariales para digitalización y automatización de procesos.
 </p>
 
 ---
 
-<h2 align="center">🚀 SOBRE MI</h2>
+## Sobre mí
 
-💻 Ingeniero de Sistemas con experiencia en desarrollo de software empresarial.
+Soy desarrollador backend con experiencia en sistemas empresariales, automatización de procesos operativos y desarrollo de aplicaciones orientadas a productividad.
 
-⚡ Especializado en:
-
-- Backend Development Stack Principal (Python / Django- C# / asp.netcore) Stack secundario  (PHP / Laravel)
+**Stack principal:**
+- Python / Django
+- C# / ASP.NET Core
+- PHP / Laravel
+- PostgreSQL / SQL Server
 - APIs REST
 - Automatización de procesos
-- PostgreSQL & Sql server
 - Optimización backend
 
-📍 Actualmente desarrollando soluciones orientadas a digitalización y automatización en entornos reales.
+Actualmente desarrollo soluciones para digitalizar operaciones reales, mejorar tiempos de respuesta y centralizar información clave para la toma de decisiones.
 
 ---
-<h2 align="center">🧩 PROYECTOS DESTACADOS</h2>
 
+## Proyectos destacados
 
-### 🔹 SISGAM – Sistema de Gestión Administrativa
-✔ Digitalización 100% de procesos manuales  
-✔ Reportes centralizados  
-✔ Migración completa a entorno digital  
+### SISGAM - Sistema de Gestión Administrativa
+- Digitalización de procesos manuales
+- Reportes centralizados
+- Migración completa a entorno digital
 
-### 🔹 Sistema Control Bodega & Mantenimiento
-✔ Control de acceso y autenticación  
-✔ Generación automática de reportes PDF  
-✔ Reducción del 70% en tiempos operativos  
+### Sistema de Control de Bodega y Mantenimiento
+- Control de acceso y autenticación
+- Generación automática de reportes PDF
+- Reducción de tiempos operativos
 
-### 🔹 PresstApp – Sistema Contable
-✔ Gestión de cobros y pagos  
-✔ Generación automática de reportes financieros  
-✔ Optimización backend (+30% rendimiento)
+### PresstApp - Sistema Contable
+- Gestión de cobros y pagos
+- Reportes financieros automatizados
+- Optimización de procesos backend
 
 ---
-<h2 align="center">🚀CAPACITACIONES ACTUALMENTE</h2>
- 
+
+## Actualmente aprendiendo
 
 - Arquitectura backend avanzada
-- Data Engineering & SQL avanzado
-- Cloud (AWS / Serverless)
+- Data Engineering y SQL avanzado
+- Cloud con AWS y Serverless
 - Automatización de procesos empresariales
 
 ---
-<h2 align="center">📫CONTACTO</h2>
 
+## Contacto
 
-📧 **ing.marquezcarlos@gmail.com**
-
-🌐 Portafolio:  
-<a href="https://portafoliocarlosmarquez.vercel.app/" target="_blank">
-Visitar Portafolio
-</a>
-
-🔗 LinkedIn:  
-<a href="https://www.linkedin.com/in/carlosenrique-marquez/" target="_blank">
-Carlos Márquez
-</a>
+**Email:** ing.marquezcarlos@gmail.com  
+**Portafolio:** [portafoliocarlosmarquez.vercel.app](https://portafoliocarlosmarquez.vercel.app/)  
+**LinkedIn:** [Carlos Márquez](https://www.linkedin.com/in/carlosenrique-marquez/)
 
 ---
-<h2 align="center">🛠️ Tecnologías principales</h2>
- 
+
+## Tecnologías principales
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-<img src="https://drwvgrynateyhygiczqo.supabase.co/storage/v1/object/public/Images/negosdev/knxvxntcduo-jebcdev-aplicaciones-web-con-laravel-0.png" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://xprimiendo.com/wp-content/uploads/2018/04/vue-js-thumb.png" width="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXW9ZmvP-eM7JbN5-nOgeoy-ctVUTa7xheQ&s" width="50"/>
-<img src="https://cdn.optipic.io/site-106081/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
- 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankokmc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marquez717&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankokmc&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Marquez717&layout=compact&theme=tokyonight" />
 </p>
