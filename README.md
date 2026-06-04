@@ -31,6 +31,7 @@ Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar
 - Python / Django
 - PHP / Laravel
 - Automatización de procesos
+- IA aplicada a productividad y reportes
 - Reportes y sistemas administrativos
 
 ---
