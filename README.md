@@ -15,7 +15,7 @@ automatización de procesos y construcción de soluciones web modernas.
 
 <h2 align="center">Sobre mí </h2>
 
-Soy desarrollador Full Stack con enfoque en aplicaciones empresariales, combinando interfaces modernas con **Angular** y backend robusto con **ASP.NET Core**.
+Soy desarrollador Full Stack con enfoque en aplicaciones empresariales, combinando interfaces modernas con **Angular** y backend robusto con **ASP.NET Core**
 
 Me interesa crear sistemas que ayuden a digitalizar procesos reales, centralizar información, automatizar tareas operativas y mejorar la eficiencia de las organizaciones.
 
