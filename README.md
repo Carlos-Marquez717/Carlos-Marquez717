@@ -15,7 +15,7 @@ automatización de procesos y construcción de soluciones web escalables.
 
 ---
 
-## 👨‍💻 Sobre mí
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
 Soy desarrollador Full Stack con enfoque principal en el ecosistema de **.NET** y **Angular**. Me apasiona crear herramientas que digitalicen procesos operativos, centralicen información estratégica y optimicen la eficiencia organizacional.
 
@@ -25,7 +25,9 @@ Soy desarrollador Full Stack con enfoque principal en el ecosistema de **.NET** 
 
 ---
 
-## 🛠️ Stack Tecnológico
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+
+<div align="center">
 
 ### **Tecnologías Principales**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -43,9 +45,11 @@ Soy desarrollador Full Stack con enfoque principal en el ecosistema de **.NET** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-## 🚀 Proyectos Destacados
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 ### 🎫 [SupportDesk Lite API](https://github.com/Carlos-Marquez717/supportdesk-lite)
 > API backend para la gestión integral de tickets de soporte técnico con cálculo de SLA, auditoría y dashboard operacional.
@@ -69,7 +73,7 @@ Soy desarrollador Full Stack con enfoque principal en el ecosistema de **.NET** 
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
@@ -85,10 +89,3 @@ Soy desarrollador Full Stack con enfoque principal en el ecosistema de **.NET** 
 💬 *¿Tienes un proyecto en mente o una oportunidad profesional? ¡Escríbeme!* `ing.marquezcarlos@gmail.com`
 
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marquez717&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Marquez717&layout=compact&theme=tokyonight" />
-</p>
